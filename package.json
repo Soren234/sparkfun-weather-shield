@@ -14,6 +14,6 @@
     "express": "^4.17.1",
     "j5-sparkfun-weather-shield": "github:rwaldron/j5-sparkfun-weather-shield",
     "johnny-five": "^1.4.0",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.5.0"
   }
 }
